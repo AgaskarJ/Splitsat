@@ -1,0 +1,51 @@
+.split {
+	height: 40px;
+	width: 60%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #000;
+	padding-left: 25px;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #CCC;
+	border-bottom-color: #CCC;
+	border-left-color: #CCC;
+	border-right-width: 0px;
+	border-right-style: solid;
+}
+.maintxt {
+}
+
+
+.foo
+{
+    padding-right: 200px;
+}
+
+.header {
+	top:0px;
+	position:fixed;
+	background: #f5f5f5;
+	width:100%;
+	opacity:0.6;
+	
+}
+
+.footer {
+	bottom:0px;
+	position:fixed;
+	width:100%;
+}
+
+.body {
+	top:20px;
+	bottom:20px;
+}
